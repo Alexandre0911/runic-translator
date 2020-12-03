@@ -3,5 +3,5 @@
 # ENG
 The translation can be not 100% accurate!
 
-#PT
+# PT
 A tradução pode não estar 100% correta!
